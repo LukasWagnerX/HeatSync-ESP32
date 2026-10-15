@@ -1,0 +1,6 @@
+#pragma once
+static const char HEATSYNC_PROVISIONING_PUBLIC_KEY[] = R"KEY(-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXZNNRUROSpSzWA0+bzbkxIjDLlHB
+vjnxcNiwfIdwor3TWPqXD85T7a817YeAiacF9hn6ItLl99yXSua7LjUbQQ==
+-----END PUBLIC KEY-----
+)KEY";
